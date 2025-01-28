@@ -6,3 +6,4 @@ requests
 streamlit_folium
 cachetools
 matplotlib
+openpyxl
